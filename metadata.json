@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Ungating Toolkit Landing Page",
+  "description": "Clean, high-converting one-page landing page for the Amazon Ungating Toolkit digital product.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
